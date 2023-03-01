@@ -1,16 +1,3 @@
-I'm a Fullstack Developer, my stack is:
-- PHP
-  - Symfony
-  - Laravel
-  - ZendFramework/Laminas
-  - Doctrine ORM / ODM
-  - PHP without frameworks
-- Javascript
-  - React
-  - Express
-  - JQuery (yep, I'm an old 👴 developer )   
-  - VanillaJS
-
 # Hi there 👋
 
 I am [Alessandro Feitoza](https://linkedin.com/in/alessandrofeitoza), I'm a Fullstack Developer, this is my stack:
@@ -21,7 +8,7 @@ I am [Alessandro Feitoza](https://linkedin.com/in/alessandrofeitoza), I'm a Full
 - **Frontend**:
   - Javascript, with ou without frameworks;
   - Frameworks: ReactJS;
-  - Libraries: JQuery, Material-UI, Bootstrap, etc;
+  - Libraries: JQuery, Material-UI, Bootstrap, SASS, etc;
 - **Database**:
   - MySQL/MariaDB;
   - PostGreSQL;
@@ -30,7 +17,7 @@ I am [Alessandro Feitoza](https://linkedin.com/in/alessandrofeitoza), I'm a Full
   - GIT/GitHub/GitLab;
   - Docker;
   - GNU/Linux;
-  - SCRUM/AGILE
+  - SCRUM/AGILE;
 
 
 ##
