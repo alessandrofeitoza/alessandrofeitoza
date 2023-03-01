@@ -30,7 +30,7 @@ I am [Alessandro Feitoza](https://linkedin.com/in/alessandrofeitoza), I'm a Full
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Pelaez-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Pelaez-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Pelaez-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Pelaez-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg">
   <img align="center" alt="Pelaez-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pelaez-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
